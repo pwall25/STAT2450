@@ -1,5 +1,8 @@
 #Exercise 2 (Practice)
 def calculate(num1, num2):
+    """
+    A four function calculator
+    """
 
     total = num1 + num2
     diff = num1 - num2
